@@ -111,6 +111,7 @@ img{
     font-size: 1.5rem;
     line-height: 1.25;
     margin: 001rem;
+    word-spacing: 10px;
     
 }
 
@@ -361,7 +362,7 @@ img{
     }
 
     .showcase::after{
-        box-shadow: inset 20px 10px 100px #000000, inset -20px -10px 100px #000000;
+        box-shadow: inset 15px 5px 130px #000000, inset -15px -5px 130px #000000;
     }
 
     .showcase-top{
@@ -389,6 +390,7 @@ img{
 
     .showcase-content p{
         font-size: 1.2rem;
+        
     }
 
     .btn-xl{
