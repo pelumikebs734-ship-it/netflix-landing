@@ -361,7 +361,7 @@ img{
     }
 
     .showcase::after{
-        box-shadow: inset 80px 80px 250px #000000, inset -80px -80px 250px #000000;
+        box-shadow: inset 20px 10px 100px #000000, inset -20px -10px 100px #000000;
     }
 
     .showcase-top{
