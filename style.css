@@ -10,7 +10,7 @@
 }
 
 body{
-    /* font-family: 'Arial', sans-serif; */
+    font-family: 'Arial', sans-serif;
     -webkit-font-smoothing: antialiased;
     background: black;
     color: #999;
